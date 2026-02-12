@@ -1,0 +1,50 @@
+{
+  "id": "ben-drowned",
+  "name": "BEN Drowned",
+  "category": "Modern Internet Folklore",
+  "type": "Creepypasta ARG",
+  "version": "1.0.0",
+  "last_updated": "2026-01-14",
+  "locations": [
+    {
+      "name": "Internet/Global",
+      "region": "Online Community",
+      "country": "Worldwide",
+      "coordinates": null
+    }
+  ],
+  "origin": {
+    "culture": "Internet Culture",
+    "period": "2010-Present",
+    "source": "4chan /x/ Board, YouTube"
+  },
+  "description": {
+    "short": "Influential 2010 creepypasta about a haunted Legend of Zelda: Majora's Mask cartridge, featuring ARG elements and the phrase 'You shouldn't have done that.'",
+    "long": "BEN Drowned is a multimedia creepypasta created by Alexander D. Hall (jadusable) in 2010. The story follows a college student who acquires a haunted Nintendo 64 cartridge of The Legend of Zelda: Majora's Mask from an old man whose grandson Ben had drowned. The game exhibits increasingly disturbing glitches and manifestations of a malevolent entity. The creepypasta incorporated alternate reality game (ARG) elements with videos, websites, and interactive components. Known for the catchphrase 'You shouldn't have done that' and the Elegy of Emptiness statue, it became one of the most influential gaming creepypastas, despite being documented fiction."
+  },
+  "characteristics": [
+    "Haunted video game cartridge",
+    "Majora's Mask gameplay footage",
+    "ARG multimedia elements",
+    "Catchphrase: 'You shouldn't have done that'",
+    "Elegy of Emptiness statue",
+    "Documented fictional creation (2010)",
+    "Interactive storytelling format"
+  ],
+  "status": {
+    "confirmed": false,
+    "explanation": "Documented fictional creepypasta created by Alexander D. Hall in 2010, combining storytelling with edited gameplay footage and ARG elements",
+    "evidence_level": "Fictional Work"
+  },
+  "cultural_impact": {
+    "significance": "One of the most influential gaming creepypastas, pioneered ARG elements in creepypasta format",
+    "modern_usage": "Referenced in gaming horror culture, inspired numerous haunted game stories, continues through sequels and reboots",
+    "folklore_type": "Modern Digital Narrative"
+  },
+  "see_also": [
+    "creepypasta",
+    "haunted-cartridge",
+    "internet-folklore",
+    "arg"
+  ]
+}
