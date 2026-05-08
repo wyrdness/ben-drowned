@@ -1,194 +1,164 @@
 # BEN Drowned
 
+> A multimedia online horror narrative and alternate reality game by Alexander D. Hall ('Jadusable') begun on 4chan's /x/ board on 7 September 2010, framed as a haunted Nintendo 64 cartridge of The Legend of Zelda: Majora's Mask possessed by an entity called BEN.
+
+[![API Version](https://img.shields.io/badge/api-v1.1.0-blue)]() [![Last Updated](https://img.shields.io/badge/updated-2026-05-07-green)]() [![Sightings](https://img.shields.io/badge/sightings-0-orange)]() ![Status](https://img.shields.io/badge/status-documented-blue)
+
+---
+## Quick Reference
+
+| Property | Value |
+|---|---|
+| **ID** | `ben-drowned` |
+| **Category** | URBAN_LEGEND |
+| **Subcategory** | Creepypasta / multimedia ARG |
+| **First recorded** | 2010-09-07 |
+| **Primary range** | Internet-native phenomenon |
+| **Status** | documented |
+
+---
 ## Overview
-**BEN Drowned** is an influential multimedia creepypasta created in 2010 about a haunted copy of The Legend of Zelda: Majora's Mask. Created by Alexander D. Hall (username jadusable), it pioneered the use of ARG (alternate reality game) elements in creepypasta format and became one of the most recognized gaming horror stories on the internet.
 
-**Status**: Documented fictional creation  
-**Category**: Modern Internet Folklore  
-**Period**: 2010-Present  
-**Creator**: Alexander D. Hall (jadusable)
+BEN Drowned is a foundational creepypasta and alternate reality game (ARG) created by American writer Alexander D. Hall (online handle 'Jadusable'). It originally appeared as a thread titled 'Haunted Majora's Mask Cartridge' on 4chan's paranormal /x/ board on 7 September 2010, and unfolded as a daily multimedia serial through 15 September 2010. The story-within-the-story is told by 'Jadusable', a college sophomore who acquires a used Nintendo 64 cartridge of The Legend of Zelda: Majora's Mask (Nintendo, 2000) from an old man at a yard sale. The cartridge contains a save file named 'BEN'; subsequent gameplay sessions are recorded as YouTube videos showing increasingly glitched and uncanny behavior — Link being burned by the Happy Mask Salesman, the Elegy of Emptiness statue stalking the player, and the file repeatedly resetting itself. Through the in-fiction Cleverbot conversations and YouTube videos, an entity claims to be BEN, identified with a child who drowned. The narrative evolved into a multi-year ARG ('Moon Children', 'Arc 2: The Truth', etc.) and is widely considered one of the most influential works in the creepypasta genre, helping establish creepypasta as a recognized literary form. The series ran intermittently from 2010 to 2020.
 
-## Description
+---
+## Names & Aliases
 
-### The Story
-The original narrative follows a college student (the narrator) who:
-1. Acquires a Nintendo 64 cartridge of Majora's Mask from a yard sale
-2. Old man mentions it belonged to his grandson "Ben" who drowned
-3. Game exhibits increasingly disturbing behavior and glitches
-4. Save file named "BEN" appears and disappears
-5. Entity seems to be aware of the player and communicates
-6. Malevolent spirit uses the game as a vessel to interact with real world
+| Name | Origin | Meaning |
+|---|---|---|
+| Haunted Majora's Mask Cartridge | English / 4chan / online | Original title of the 4chan post |
+| Jadusable's Majora's Mask story | English / Internet |  |
+| Ben (entity) | English / Internet |  |
 
-### Multimedia Presentation
-BEN Drowned innovated by incorporating:
-- **Written Posts**: Traditional creepypasta narrative on 4chan
-- **Video Evidence**: Edited gameplay footage showing "haunted" behavior
-- **ARG Elements**: Interactive websites and hidden messages
-- **Community Participation**: Readers could influence story direction
-- **Multiple Platforms**: Story spread across YouTube, forums, and websites
+## Etymology
 
-### Key Elements
-- **"You shouldn't have done that"**: Famous catchphrase appearing in gameplay
-- **Elegy of Emptiness**: Creepy statue from Majora's Mask became story icon
-- **Song of Unhealing**: Reversed "Song of Healing" from the game
-- **Fourth Day**: References to impossible "day 4" in game's 3-day cycle
-- **Haunted Cartridge**: Physical game as conduit for supernatural entity
+- **Origin**: Coined by Alexander D. Hall in his 7 September 2010 4chan /x/ post; 'BEN' is the name of the save file on the haunted cartridge, and 'Drowned' is added because the in-fiction backstory (delivered through the haunted gameplay and Cleverbot dialogue) suggests BEN is the spirit of a boy who drowned.
+- **Meaning**: Literal: a (fictional) boy named Ben who drowned, whose spirit haunts a Nintendo 64 cartridge.
+- **First use**: 2010-09-07: 'Haunted Majora's Mask Cartridge' thread on 4chan's /x/ board (Alex Hall / Jadusable)
 
-## Documented Origins
+---
+## Related Phenomena
 
-### Creation Timeline
-- **September 2010**: Alexander D. Hall posts first installment to 4chan /x/
-- **Immediate Impact**: Story gains traction, videos go viral
-- **ARG Expansion**: Additional websites and interactive elements added
-- **Community Growth**: Massive following develops
-- **2010-2012**: Main story arc concludes
-- **Later**: Sequels and reboots attempted
+- [Slender Man](../slender-man/) — _similar_: Other foundational creepypasta originating in 2009 on the Something Awful forums
+- [Smile Dog](../smile-dog/) — _similar_: Early creepypasta about a haunted image
+- [Polybius](../polybius/) — _similar_: Urban legend of a haunted/cursed arcade machine
+- [Lavender Town Syndrome](../lavender-town-syndrome/) — _similar_: Pokémon-related haunted-game urban legend
 
-### How It Was Made
-The creator has discussed the production process:
-- Gameplay captured using Nintendo 64 emulator
-- Video editing to create "glitches" and unusual behavior
-- Game modding and ROM hacking for specific effects
-- Careful narrative construction with cliffhangers
-- Strategic release timing for maximum impact
+---
+## Physical Description
 
-### Confirmed Fiction
-Unlike ambiguous creepypasta, BEN Drowned's fictional nature is well-documented:
-- Creator identified and interviewed
-- Production methods explained
-- ARG elements acknowledged as interactive fiction
-- Community aware of creative project nature
+- **Morphology**: BEN exists in-fiction as a digital/haunting entity manifesting through a video game, YouTube videos, and online chat (Cleverbot) — not a corporeal being.
 
-## Cultural Impact
+### Features
 
-### Gaming Creepypasta Evolution
-BEN Drowned established templates for gaming horror:
-- **Haunted Game Media**: Physical cartridge as horror source
-- **Lost Game**: Unusual or impossible content in familiar games
-- **Glitch Horror**: Using game glitches for unsettling effect
-- **Player Awareness**: Entity that knows it's in a game
+| Feature | Description | Frequency |
+|---|---|---|
+| Haunted Nintendo 64 cartridge | A grey N64 cartridge of The Legend of Zelda: Majora's Mask with the partly-rubbed-off name 'Majora' on the label and a save file named BEN | always |
+| Glitched in-game avatar | Link displayed in distorted, burned, or doubled forms; the Elegy of Emptiness statue moves toward the player | common |
+| Reverse-pitched audio | Songs from the original game played backward and at altered pitch in the haunted videos | common |
 
-### Influence
-Inspired countless imitators:
-- Sonic.exe
-- Pokémon Lost Silver
-- NES Godzilla Creepypasta
-- Countless haunted game stories
-- Format became a subgenre
+## Reported Abilities
 
-### Majora's Mask Connection
-The story leveraged Majora's Mask's existing eerie atmosphere:
-- Game already had unsettling elements (moon, masks, time limit)
-- Elegy of Emptiness statue naturally creepy
-- Themes of death and time already present
-- Perfect vehicle for horror narrative
+| Ability | Description | Frequency | Evidence |
+|---|---|---|---|
+| Possession of digital media | Inhabits and modifies a Nintendo 64 cartridge and its YouTube uploads | always | speculation |
+| Direct communication via Cleverbot | Hijacks Cleverbot conversations, replying with personal information and threats | common | speculation |
+| Intrusion across digital boundaries | Affects the protagonist's computer files, email, and (in later arcs) physical surroundings | occasional | speculation |
 
-## ARG Elements
+## Behavior
 
-### Interactive Components
-BEN Drowned pioneered creepypasta ARG integration:
-- **Websites**: Jadusable.withinhubris.com and related sites
-- **Hidden Messages**: Codes and clues in videos
-- **Community Puzzles**: Readers solved challenges together
-- **Real-Time Updates**: Story responded to community actions
-- **Multiple Endings**: Community choices affected narrative
+- **Activity**: unknown
+- **Disposition**: aggressive
+- **Social structure**: solitary
+- **Habitat**: digital media, video game cartridges, online chat services
 
-### Innovation
-This approach transformed creepypasta from passive reading to active participation, creating deeper engagement and sense of reality despite known fictional status.
+---
+## Distribution
 
-## Psychological Elements
+Internet-native phenomenon; primarily distributed via 4chan's /x/ board, YouTube, and Jadusable's hosted website. Audience is global English-speaking internet users.
 
-### Why It Worked
-The story's effectiveness stems from:
-- **Nostalgia**: Targeting beloved childhood game
-- **Familiarity**: Using known game as baseline
-- **Corruption**: Twisting something safe into something sinister
-- **Video Evidence**: Visual "proof" more compelling than text alone
-- **Player Agency**: Horror of losing control in interactive medium
-- **Awareness**: Terrifying concept of entity that knows you're playing
+### Hotspots
 
-### The Uncanny
-BEN Drowned exploits uncanny valley in gaming:
-- Familiar characters behaving wrong
-- Known environments becoming threatening
-- Expected game mechanics breaking down
-- Safe nostalgic space violated
+| Location | Region | Sightings | Peak |
+|---|---|---|---|
+| 4chan /x/ board | Online, United States |  | September 2010 |
+| YouTube (Jadusable channel) | Online, United States |  | 2010–2014 |
 
-## Fiction vs. Folklore
+---
+## Historical Timeline
 
-### Documented Fiction
-BEN Drowned is clearly documented as fiction:
-- **Known Author**: Alexander D. Hall identified
-- **Explained Process**: Creation methods revealed
-- **Acknowledged Project**: Presented as creative work
-- **Transparent ARG**: Interactive elements framed as game
+| Date | Event | Significance |
+|---|---|---|
+| 2010-09-07 | Alex Hall posts the first 'Haunted Majora's Mask Cartridge' thread on 4chan's /x/ board, with the first YouTube video | Birth of BEN Drowned |
+| 2010-09-15 | End of the initial daily serialization (Day 4 / 'final' post) | Closes the original arc as it appeared on 4chan |
+| 2011-01-01 | Expansion into a multi-arc ARG, including the 'Moon Children' storyline | Transition from creepypasta to alternate reality game |
+| 2020-09-07 | Tenth-anniversary closing chapter posted by Hall | Conclusion of the long-running ARG |
 
-### Folklore Characteristics
-Despite documented origins, exhibits folklore traits:
-- **Viral Spread**: Shared rapidly across communities
-- **Cultural Resonance**: Tapped into existing gaming anxieties
-- **Variation**: Spawned derivatives and reinterpretations
-- **Belief Suspension**: Readers engaged "as if" real
-- **Community Tradition**: Became part of gaming horror culture
+## Evidence
 
-## Legacy
+### Video
 
-### Enduring Influence
-Years after creation, BEN Drowned remains:
-- **Recognizable**: Elegy of Emptiness statue instantly associated
-- **Referenced**: Frequently cited in gaming horror discussions
-- **Template**: Format copied by countless creators
-- **Cultural Touchstone**: Part of internet horror canon
+| Name | Date | Description | Status |
+|---|---|---|---|
+| Jadusable YouTube videos (Sept 2010) | 2010-09-07 to 2010-09-15 | Series of YouTube videos uploaded by Jadusable showing the alleged haunted Majora's Mask cartridge. | verified |
+### Documentary
 
-### Later Developments
-- **2020 Reboot**: Creator attempted continuation/reboot
-- **Fan Works**: Extensive fanfiction and fan art
-- **Analysis**: Academic and community examination
-- **Nostalgia**: Viewed as classic of early 2010s internet
+| Name | Date | Description | Status |
+|---|---|---|---|
+| Original 4chan /x/ thread, 7 September 2010 | 2010-09-07 | The original 'Haunted Majora's Mask Cartridge' thread on 4chan's /x/ paranormal board. | verified |
 
-## Critical Reception
+---
+## Theories & Explanations
 
-### Praise
-- Innovative multimedia approach
-- Effective use of familiar game
-- Strong atmosphere and pacing
-- Successful ARG integration
+### Paranormal / Cryptozoological
 
-### Criticism
-- Later story installments less cohesive
-- ARG elements became convoluted
-- Sequels didn't capture original magic
-- Some plot threads unresolved
+**In-fiction haunted-cartridge premise** _(Jadusable (in-fiction narrator))_
 
-## Modern Context
+Within the narrative, BEN is the spirit of a drowned boy who possesses a Majora's Mask cartridge and pursues its owner through digital media.
 
-### Teaching Example
-BEN Drowned used to discuss:
-- Evolution of digital storytelling
-- Multimedia narrative techniques
-- ARG design and execution
-- Internet folklore in documented fiction
-- Gaming culture and horror
+### Skeptical
 
-### Community Perspective
-Current creepypasta communities view it as:
-- Influential classic
-- High-quality execution
-- Pioneering format
-- Part of creepypasta "golden age"
+**Authored creepypasta / ARG** _(Alex Hall (Jadusable), Folklorists and ARG scholars)_
 
-## Technical Aspects
+BEN Drowned is a deliberately crafted multimedia fiction by Alexander D. Hall; the 'haunting' is a combination of editing, reversed audio, gameplay glitching, and ARG-style cross-platform staging. Hall has confirmed authorship publicly.
 
-### How the "Haunting" Was Created
-- **Emulation**: Nintendo 64 emulator allowed manipulation
-- **ROM Hacking**: Game files modified for custom behavior
-- **Video Editing**: Effects added in post-production
-- **Save State Manipulation**: Game states edited for impossible scenarios
-- **Audio Editing**: Sound effects and music altered
 
-## See Also
-- [Creepypasta](../creepypasta/) - Internet horror fiction genre
-- [Gaming Creepypasta](../gaming-creepypasta/) - Haunted game subgenre
-- [Jeff the Killer](../jeff-the-killer/) - Related creepypasta character
-- [SCP Foundation](../scp-foundation/) - Collaborative internet horror
-- [ARG](../arg/) - Alternate reality games
+## Popular Culture
+
+**Literature**: Trevor J. Blank & Lynne S. McNeill (eds.), Slender Man Is Coming (2018) — discusses creepypasta context including BEN Drowned; Various creepypasta anthology republications (2011–present)
+
+**Games**: Numerous fan games and ROM hacks built around BEN imagery
+
+**Other**: Subject of academic articles in folkloristics and game studies; Frequently discussed in horror and gaming media coverage of creepypasta
+
+---
+## Research
+
+### Researchers
+
+| Name | Affiliation | Contribution | Period |
+|---|---|---|---|
+| Trevor J. Blank | SUNY Potsdam (folklore) | Folklorist of digital culture; writes on creepypasta including BEN Drowned in academic contexts | 2010s–present |
+| Lynne S. McNeill | Utah State University (folklore) | Folklorist of digital legend, including creepypasta | 2010s–present |
+
+BEN Drowned is a recurring case study in folkloristics, game studies, and the study of alternate reality games. Articles continue to appear in journals like Western Folklore and New Directions in Folklore.
+
+---
+## Sources
+
+See [SOURCES.md](SOURCES.md) for the complete bibliography.
+
+
+## How to Report a Sighting
+
+1. **GitHub Issue**: [Submit Sighting Report](../../issues/new?template=sighting_report.yml)
+2. Provide date, location, witnesses, description, conditions, and any evidence.
+
+---
+## License
+
+Content: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
+Data: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)  
+
+---
+_Auto-generated from `api.json`. Do not edit by hand — edit `api.json` and run `make repo-docs`._
